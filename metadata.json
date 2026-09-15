@@ -1,0 +1,6 @@
+{
+  "name": "Live Polling & Sentiment Dashboard",
+  "description": "Real-time audience polling with live interactive charts and AI-powered sentiment analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
